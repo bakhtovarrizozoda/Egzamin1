@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.AssemblyInfo.cs
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\bin\Debug\net6.0\egzamin.exe
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\bin\Debug\net6.0\egzamin.deps.json
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\bin\Debug\net6.0\egzamin.runtimeconfig.json
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\bin\Debug\net6.0\egzamin.dll
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\bin\Debug\net6.0\egzamin.pdb
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.dll
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\refint\egzamin.dll
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.pdb
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\egzamin.genruntimeconfig.cache
+C:\Users\user\Desktop\Масъалаҳо C#\kori 1\egzamin\obj\Debug\net6.0\ref\egzamin.dll
+C:\Users\user\Desktop\Egzamin1\egzam\task1\bin\Debug\net6.0\egzamin.exe
+C:\Users\user\Desktop\Egzamin1\egzam\task1\bin\Debug\net6.0\egzamin.deps.json
+C:\Users\user\Desktop\Egzamin1\egzam\task1\bin\Debug\net6.0\egzamin.runtimeconfig.json
+C:\Users\user\Desktop\Egzamin1\egzam\task1\bin\Debug\net6.0\egzamin.dll
+C:\Users\user\Desktop\Egzamin1\egzam\task1\bin\Debug\net6.0\egzamin.pdb
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.AssemblyInfo.cs
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.dll
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\refint\egzamin.dll
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.pdb
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\egzamin.genruntimeconfig.cache
+C:\Users\user\Desktop\Egzamin1\egzam\task1\obj\Debug\net6.0\ref\egzamin.dll
